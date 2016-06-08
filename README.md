@@ -4,7 +4,7 @@ All files were adapted from Andrew Ng's machine learning course and all models u
 
 ![](https://github.com/ezchx/titanic/blob/master/fit_table2.png)
 
-Logistic Regression - my best training result was 84.1% with 500 runs and lambda = 0. Surprisingly, this gave worst result with the Kaggle test data (78%).
+Logistic Regression - my best training result was 84.1% with 500 runs and lambda = 0. Surprisingly, this gave the worst result with the Kaggle test data (78%).
 
 Linear Regression - gradient descent equaled the normal equation after 500K runs with an alpha of 0.1. The Kaggle test results were in the top 20%.
 
