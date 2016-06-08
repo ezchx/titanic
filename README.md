@@ -4,7 +4,7 @@ All files were adapted from Andrew Ng's machine learning course. All hail Ng!
 
 All models used the same 16 variables.
 
-![](https://github.com/ezchx/titanic/blob/master/fit_table.png)
+![](https://github.com/ezchx/titanic/blob/master/fit_table2.png)
 
 Logistic Regression - 
 
