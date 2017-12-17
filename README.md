@@ -1,5 +1,3 @@
-Kaggle Titanic project
-
 All files were adapted from Andrew Ng's machine learning course and all models used the same 16 variables.
 
 ![](https://github.com/ezchx/titanic/blob/master/fit_table2.png)
